@@ -230,15 +230,6 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ---
 
-## 🚀 Current Status
-
-**Epic 1 Progress:** 67% Complete
-
-**Next Actions Required:**
-1. ✅ Add your MetaMask private key to `.env`
-2. ✅ Get C2FLR tokens from faucet
-3. ✅ Deploy HelloWorld contract
-4. ⏳ Move to Epic 2 (FTSO Integration)
 
 **Your Wallet:** `0xb8b38373324be739bb1aac99751a58d46b290d50`
 
